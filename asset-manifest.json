@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/project-chat-react/static/css/main.2e73bf3d.chunk.css",
-    "main.js": "/project-chat-react/static/js/main.c2e07996.chunk.js",
-    "main.js.map": "/project-chat-react/static/js/main.c2e07996.chunk.js.map",
+    "main.js": "/project-chat-react/static/js/main.8bb0e8fc.chunk.js",
+    "main.js.map": "/project-chat-react/static/js/main.8bb0e8fc.chunk.js.map",
     "runtime-main.js": "/project-chat-react/static/js/runtime-main.b11beb99.js",
     "runtime-main.js.map": "/project-chat-react/static/js/runtime-main.b11beb99.js.map",
     "static/js/2.49e34c06.chunk.js": "/project-chat-react/static/js/2.49e34c06.chunk.js",
     "static/js/2.49e34c06.chunk.js.map": "/project-chat-react/static/js/2.49e34c06.chunk.js.map",
     "index.html": "/project-chat-react/index.html",
-    "precache-manifest.baab062aa8a24e96b6044b5de5d7bc70.js": "/project-chat-react/precache-manifest.baab062aa8a24e96b6044b5de5d7bc70.js",
+    "precache-manifest.c1c9ec56fa69b88481be1963390d0c4c.js": "/project-chat-react/precache-manifest.c1c9ec56fa69b88481be1963390d0c4c.js",
     "service-worker.js": "/project-chat-react/service-worker.js",
     "static/css/main.2e73bf3d.chunk.css.map": "/project-chat-react/static/css/main.2e73bf3d.chunk.css.map",
     "static/js/2.49e34c06.chunk.js.LICENSE.txt": "/project-chat-react/static/js/2.49e34c06.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b11beb99.js",
     "static/js/2.49e34c06.chunk.js",
     "static/css/main.2e73bf3d.chunk.css",
-    "static/js/main.c2e07996.chunk.js"
+    "static/js/main.8bb0e8fc.chunk.js"
   ]
 }
